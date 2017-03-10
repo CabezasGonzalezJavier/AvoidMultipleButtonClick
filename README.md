@@ -3,6 +3,9 @@ How to avoid multiple button click at same time in android?
 
 **[You'll find the supporting medium article for this project here!](http://thedeveloperworldisyours.com/android/to-avoid-multiple-button-click-at-same-time/#sthash.qWkHlSnW.dpbs)**
 
+<p align="center">>
+  <img alt="http://thedeveloperworldisyours.com/wp-content/uploads/botell222222.jpg" />
+</p>
 
 Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
 
