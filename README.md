@@ -1,6 +1,8 @@
 # AvoidMultipleButtonClick
 How to avoid multiple button click at same time in android?
 
+**[You'll find the supporting medium article for this project here!](http://thedeveloperworldisyours.com/android/to-avoid-multiple-button-click-at-same-time/#sthash.qWkHlSnW.dpbs)**
+
 
 Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
 
